@@ -11,3 +11,4 @@ dependencies:
     - scikit-learn  # Machine learning
     - rioxarray     # Read/write gridded data
     - rasterio 
+    - scipy
